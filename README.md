@@ -3,7 +3,7 @@ A modern, responsive one-page bakery website designed for a local business. It f
 
 ---
 
-## ✨ Features
+##  Features
 
 - Responsive one-page layout (mobile, tablet, desktop)
 - Clean and modern UI design
@@ -18,7 +18,7 @@ A modern, responsive one-page bakery website designed for a local business. It f
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created to help a local bakery establish a professional digital presence without requiring a full-scale complex system. It focuses on simplicity, usability, and visual appeal while ensuring a smooth user experience.
 
@@ -26,7 +26,7 @@ It also serves as a personal learning project to improve front-end development a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5  
 - CSS3  
@@ -34,13 +34,13 @@ It also serves as a personal learning project to improve front-end development a
 
 ---
 
-## 📱 Responsiveness
+##  Responsiveness
 
 The website is fully responsive and optimized for all screen sizes, ensuring a seamless experience on mobile devices, tablets, and desktops.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add online ordering system  
 - Integrate backend for dynamic content  
@@ -49,12 +49,12 @@ The website is fully responsive and optimized for all screen sizes, ensuring a s
 
 ---
 
-## 📌 Note
+##  Note
 
 All content and images used are placeholders and can be easily replaced to match the actual bakery’s branding.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Developed as a learning project focused on real-world web development practice and small business solutions.
