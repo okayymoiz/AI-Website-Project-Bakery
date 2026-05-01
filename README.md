@@ -2,6 +2,7 @@
 A modern, responsive one-page bakery website designed for a local business. It features a clean UI with sections for menu, about, gallery, featured items, and contact details. Built using HTML, CSS, and JavaScript, it focuses on simplicity, elegance, and a smooth user experience across all devices.
 
 ---
+<img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/8c7cf74d-3f51-447e-a46d-b2084ae2829e" />
 
 ##  Features
 
