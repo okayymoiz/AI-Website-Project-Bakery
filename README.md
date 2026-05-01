@@ -3,6 +3,10 @@ A modern, responsive one-page bakery website designed for a local business. It f
 
 ---
 <img width="1347" height="604" alt="image" src="https://github.com/user-attachments/assets/8c7cf74d-3f51-447e-a46d-b2084ae2829e" />
+<img width="1347" height="602" alt="image" src="https://github.com/user-attachments/assets/fc2ded1b-da04-4740-ad80-6ec56f71c61e" />
+<img width="1350" height="606" alt="image" src="https://github.com/user-attachments/assets/23de11d5-5419-4c8d-82c6-b4ac556e79f5" />
+<img width="1340" height="604" alt="image" src="https://github.com/user-attachments/assets/329f2640-42d8-4285-8efd-e12ac5b8c77b" />
+
 
 ##  Features
 
